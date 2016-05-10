@@ -3,9 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1462859066108">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="C:/xampp/htdocs/TalentOnline/application/controllers/employer.php" timestamp="1460121572379">
         <mark key="[" line="582" column="5" />
         <mark key="]" line="582" column="5" />
@@ -26,7 +23,6 @@
         <mark key="]" line="47" column="0" />
         <mark key="." line="47" column="0" />
       </file>
-      <file name="C:/xampp/htdocs/TalentOnline/application/views/contents/home.php" timestamp="1462856046718" />
       <file name="C:/xampp/htdocs/TalentOnline/application/language/langs/th_lang.php" timestamp="1461728202247">
         <mark key="[" line="767" column="51" />
         <mark key="]" line="767" column="51" />
